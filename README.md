@@ -4,7 +4,7 @@
 
 ## Available Scripts
 
-<insIn the project directory, you can run:
+<ins>In the project directory, you can run:
 
 ### `npm start`
 
