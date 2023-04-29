@@ -3,7 +3,7 @@
 <i>This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).</i>
 
 ## Step № 1 
-<ins>Let's go</ins
+<ins>Let's go</ins>
 
 ## Available Scripts
 
