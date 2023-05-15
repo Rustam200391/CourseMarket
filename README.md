@@ -5,7 +5,7 @@
 ## Step № 1 
 <ins>Let's go</ins>
 
-<a href="">Link</a>
+<a href="https://github.com/Rustam200391/CourseMarket/edit/master/README.md">Link</a>
 
 ## Available Scripts
 
