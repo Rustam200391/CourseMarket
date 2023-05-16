@@ -6,7 +6,10 @@
 <ins>Let's go</ins>
 
 <a href="https://github.com/Rustam200391/CourseMarket/edit/master/README.md">Link</a>
-<td><tr></tr></td>
+<td>
+  <tr>1</tr>
+  <tr>2</tr>
+</td>
 
 ## Available Scripts
 
