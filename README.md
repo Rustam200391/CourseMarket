@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+<
 <i>This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).</i>
 
 ## Step № 1 
@@ -26,6 +26,7 @@
     <tr>8</tr>
    </td>
 </td>
+
 
 ## Available Scripts
 
