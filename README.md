@@ -1,4 +1,4 @@
-<b>Old App
+<b>Old App<
 # Getting Started with Create React App
 <ins></ins>
 <i>This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).</i>
