@@ -35,10 +35,12 @@
     <ol>
       <li><tr>6</tr> </li> 
     </ol>
-    
-    <tr>7</tr>
-    <tr>8</tr>
-   
+    <ol>
+      <li><tr>7</tr></li> 
+    </ol>
+    <ol>
+      <li><tr>8</tr></li> 
+    </ol>
    </td>
 </td>
 
