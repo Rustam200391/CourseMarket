@@ -20,7 +20,9 @@
     <ol>
       <li><tr>1</tr></li>
     </ol>
-    <tr>2</tr>
+    <ol>
+      <li><tr>2</tr></li>
+    </ol>
     <tr>3</tr>
    <tr>4</tr>
     <tr>5</tr>
