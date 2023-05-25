@@ -26,7 +26,9 @@
     <ol>
       <li><tr>3</tr></li>
     </ol>
-   <tr>4</tr>
+    <ol>
+      <li><tr>4</tr></li>
+    </ol>
     <tr>5</tr>
     <tr>6</tr>
     <tr>7</tr>
