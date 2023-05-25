@@ -32,7 +32,10 @@
      <ol>
       <li><tr>5</tr></li>
     </ol>
-    <tr>6</tr>
+    <ol>
+      <li><tr>6</tr> </li> 
+    </ol>
+    
     <tr>7</tr>
     <tr>8</tr>
    
