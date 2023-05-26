@@ -46,8 +46,9 @@
 
 <td>
   <tr>
-    <ul>Type
+    <ul>Type:
       <li>number</li>
+      <li><td><tr><ul><li></li></ul></tr></td></li>
     </ul>
   </tr>
 </td>
