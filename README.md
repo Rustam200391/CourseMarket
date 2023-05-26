@@ -48,7 +48,7 @@
   <tr>
     <ul>Type:
       <li>number</li>
-      <li><td><tr><ul><li><td></td></li></ul></tr></td></li>
+      <li><td><tr><ul><li><td><tr></tr></td></li></ul></tr></td></li>
     </ul>
   </tr>
 </td>
