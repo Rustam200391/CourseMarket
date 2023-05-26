@@ -45,7 +45,7 @@
 </td>
 
 <td>
-  <tr><ul></ul></tr>
+  <tr><ul><li></li></ul></tr>
 </td>
 
 
