@@ -45,7 +45,11 @@
 </td>
 
 <td>
-  <tr><ul><li></li></ul></tr>
+  <tr>
+    <ul>Type
+      <li>number</li>
+    </ul>
+  </tr>
 </td>
 
 
