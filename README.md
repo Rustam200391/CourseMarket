@@ -47,9 +47,11 @@
 <td>
   <tr>
     <ul>Type:
-      <li>number</li>
-      <li><td><tr><ul><li><td><tr><ol><li>string</li>
+      
+      <li><td><tr><ul><li><td><tr><ol>
+        <li>string</li>
        <li> undefined</li>
+        <li>number</li>
         </ol></tr></td></li></ul></tr></td></li>
        <li><td><tr><ul><li><td><tr><ol></ol></tr></td></li></ul></tr></td></li>
     </ul>
