@@ -47,7 +47,7 @@
 <td>
   <tr>
     <ul>Type:
-      <li><td><tr><ul>><li>string</li>
+      <li><td><tr><ul><li>string</li>
        <li>undefined</li>
         <li>number</li>
        <li>boolean</li></ul>
