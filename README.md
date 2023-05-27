@@ -47,7 +47,6 @@
 <td>
   <tr>
     <ul>Type:
-      
       <li><td><tr><ul><li><td><tr><ol><li>string</li>
        <li>undefined</li>
         <li>number</li>
