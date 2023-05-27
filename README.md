@@ -49,7 +49,7 @@
     <ul>Type:
       <li>number</li>
       <li><td><tr><ul><li><td><tr><ol><li>string</li>
-        </li>
+       <li> undefined</li>
         </ol></tr></td></li></ul></tr></td></li>
        <li><td><tr><ul><li><td><tr><ol></ol></tr></td></li></ul></tr></td></li>
     </ul>
