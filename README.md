@@ -50,8 +50,7 @@
       <li><td><tr><ul>><li>string</li>
        <li>undefined</li>
         <li>number</li>
-       <li>boolean
-        </li></ul></tr></td></li>
+       <li>boolean</li></ul>
        <li><td><tr><ul><li><td><tr><ol></ol></tr></td></li></ul></tr></td></li>
     </ul>
   </tr>
