@@ -59,7 +59,7 @@
 
 ## Available Scripts
 
-<ins>In the project directory,</i you can run:
+<ins>In the project directory,</ you can run:
 
 ### `npm start`
 
