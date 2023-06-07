@@ -1,7 +1,7 @@
 <ins><b>Old App</b></ins>
 # Getting Started with Create React App
 
-<i>This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).</
+<i>This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<
 
 ## Step № 1 
 Let's go
