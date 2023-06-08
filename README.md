@@ -4,7 +4,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Step № 1 
-<Let's go
+<iLet's go
 
 <a href="https://github.com/Rustam200391/CourseMarket/edit/master/README.md">Link</a>
 <td>
